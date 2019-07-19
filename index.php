@@ -2,4 +2,4 @@
 
 $str1="hello world";
 $str2 "something";
-array($str1,$str2);
+var_dump(array($str1,$str2));
